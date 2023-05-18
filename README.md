@@ -1,3 +1,2 @@
-- Olá, meu nome é Julio Cezar Rodrigues de Oliveira
--  Sou professor de matemática e estou começando a estudar programação.
-
+- Hi, I'm Julio Cezar Rodrigues de Oliveira.
+-  I am a math teacher and I've been studying programming for 3 months.
